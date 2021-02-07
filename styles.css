@@ -1,13 +1,5 @@
 body {
-    background-image: url("images/4KL.gif");
-    background-size: cover;
-    
-    
-    
-    height: 100vh;
-    padding:0;
-    margin:0;
-
+    background-color: cornsilk;
     font-family: Arial, Helvetica, sans-serif;
 }
 
